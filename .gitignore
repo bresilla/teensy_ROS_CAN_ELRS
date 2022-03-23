@@ -5,3 +5,6 @@
 .vscode/ipch
 .ccls-cache
 .ccls-cache
+install
+log
+build
